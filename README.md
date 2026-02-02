@@ -4,8 +4,8 @@ A high-performance, flash-loan-integrated MEV (Maximal Extractable Value) arbitr
 
 ## Contact Information
 
-- **Discord**: [@audiofilter]
-- **Telegram**: [audiofilter](https://t.me/audiofilter)
+- **Discord**: [@solanmevbot]
+- **Telegram**: [solanmevbot](https://t.me/solanmevbot)
 - **Email**: [for38864@gmail.com](mailto:for38864@gmail.com)
 
 ## Overview
@@ -263,7 +263,7 @@ Before deploying your **Solana MEV bot**, ensure you have:
 1. **Clone the Repository:**
    Clone the **Solana MEV bot** repository to get started with your automated trading setup:
    ```bash
-   git clone https://github.com/audiofilter/solana-mev-bot.git
+   git clone https://github.com/solanmevbot/solana-mev-bot.git
    cd solana-mev-bot
    ```
 
@@ -418,8 +418,8 @@ PRs welcome to improve this **Solana MEV bot**. If you're adding a new strategy 
 
 ## Contact Information
 
-- **Discord**: [@audiofilter]
-- **Telegram**: [audiofilter](https://t.me/audiofilter)
+- **Discord**: [@solanmevbot]
+- **Telegram**: [solanmevbot](https://t.me/solanmevbot)
 - **Email**: [for38864@gmail.com](mailto:for38864@gmail.com)
 
 ## License
